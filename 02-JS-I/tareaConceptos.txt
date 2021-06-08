@@ -1,0 +1,9 @@
+Variables: Es un espacio en donde podemos alojar temporalmente una variable, la cual puede ser modificada y variar como su nombre mismo lo expresa conforme la ejecucion del problema.
+
+String: Tipo de dato albebetico.
+
+Funciones: Programa el cual se ejecuta siguiendo ordenes espesificas donde se encuentras argumentos que a su vez son datos con los que trabaja la funcion o tambien conocido como metodos, se pueden regresar valores al ejecutar el final del metodo danto lugar a la instruccion return. 
+
+Declaraciones if: Es un tipo de instruccion la cual se ciclara hasta satisfacer la condicion correspondiente. 
+
+Valores Booleanos: Existen dos tipos de valores los cuales son true (verdadero) 0 false (falso), en donde se podria interpretar como 1 o 0 correspondientemente. 
